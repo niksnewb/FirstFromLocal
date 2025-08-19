@@ -1,4 +1,10 @@
 This is text file
 git 
+<<<<<<< HEAD
+this is changes made on git hub website.
+2ndline  entered in this file
+=======
 this is my changes done on git hub site.This is done on git hub website at editor.
 This changes have been done on code space.
+
+this is again changes made from github code space.
